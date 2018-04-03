@@ -24,5 +24,5 @@
 
 ## Approach
 * $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-* $\\{x_i\\}$
+* ![<img src="https://latex.codecogs.com/svg.latex?x&space;=&space;y^{b}" title="x = y^{b}" />]
 	
