@@ -24,5 +24,5 @@
 
 ## Approach
 * $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-* \\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)
+* $\\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)$
 	
